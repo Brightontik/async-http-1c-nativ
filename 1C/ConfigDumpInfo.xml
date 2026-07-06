@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommonModule.НВК_НастройкиСетевогоДвижка" id="98d2f47f-7e7e-411d-9cdf-0b8a3e596a87" configVersion="a6b383e159211d906339c2833b23a12b24cc7bb8"/>
+		<Metadata name="CommonModule.НВК_НастройкиСетевогоДвижка.Module" id="98d2f47f-7e7e-411d-9cdf-0b8a3e596a87.0" configVersion="d258439f6babb68e7c1282f295ca76583fc8419b"/>
+		<Metadata name="CommonModule.НВК_Сериализация" id="630a738a-b17c-479e-81e4-64ba87aa9ae3" configVersion="9ac1930b5ba02b0e1d72cc05e2db5bd27f14b47e"/>
+		<Metadata name="CommonModule.НВК_Сериализация.Module" id="630a738a-b17c-479e-81e4-64ba87aa9ae3.0" configVersion="fd908c12433710132ce5ee515a0acedaac52bd71"/>
+		<Metadata name="CommonModule.НВК_СетевойДвижок" id="51b3576b-28fb-458f-9213-e5acf4f47cc3" configVersion="3f0f0ea6655c70281af5d8a493958cc8738bc712"/>
+		<Metadata name="CommonModule.НВК_СетевойДвижок.Module" id="51b3576b-28fb-458f-9213-e5acf4f47cc3.0" configVersion="44abda0b0384cf254c0d132849ec04fda0e75da0"/>
+		<Metadata name="CommonModule.НВК_СетевойДвижокПовтИсп" id="484f01e9-f034-46b0-a07f-456af03e034a" configVersion="a2c9883022de6b87703fa5d7ba7560b30177efbe"/>
+		<Metadata name="CommonModule.НВК_СетевойДвижокПовтИсп.Module" id="484f01e9-f034-46b0-a07f-456af03e034a.0" configVersion="8feceaefb6d9724a137139f3cc844a08aa689529"/>
+		<Metadata name="CommonTemplate.НВК_ВК" id="b8b15546-0391-4655-81b7-83e3982c6201" configVersion="ffeb14fa0af6771280396b5f19a440fd61405611"/>
+		<Metadata name="CommonTemplate.НВК_ВК.Template" id="b8b15546-0391-4655-81b7-83e3982c6201.0" configVersion="823b864eaa0ad1c6d1845423d5d994b881fb750b"/>
+		<Metadata name="Configuration.httpВК" id="e577c783-138e-4772-8256-f1b0c9f41ea4" configVersion="d11aa6cd9cf8f56ade034b8d3d1872bb82f1c386"/>
+		<Metadata name="DataProcessor.НВК_Тестирование" id="f5e17a4a-8644-4c6d-bbbb-4d32165c2f0f" configVersion="e734a9713ed2ca570b25eea62c4aec35a9772de1"/>
+		<Metadata name="DataProcessor.НВК_Тестирование.Form.Форма" id="b9fde91c-3ed1-42f4-8c28-b2ff17be1079" configVersion="b8b59ae00b98393d137f0329a2ab144e1856b64c"/>
+		<Metadata name="DataProcessor.НВК_Тестирование.Form.Форма.Form" id="b9fde91c-3ed1-42f4-8c28-b2ff17be1079.0" configVersion="ef6bb738035cdbc7a5de5de1b7814149c65be322"/>
+		<Metadata name="InformationRegister.НВК_НастройкиСетевогоДвижка" id="75fba4cc-49b5-436f-8e1f-d90bfc97bf16" configVersion="99048b8575c8dc9a8781e07bd3a34f1bd8844616">
+			<Metadata name="InformationRegister.НВК_НастройкиСетевогоДвижка.Resource.ПутьККлиентскомуСертификату" id="269a1b50-2ff5-4d75-a303-adb7b0accc87"/>
+			<Metadata name="InformationRegister.НВК_НастройкиСетевогоДвижка.Resource.ИгнорироватьОшибкиSSL" id="68dc6fbb-af13-4207-8bcb-64bab59f8a81"/>
+			<Metadata name="InformationRegister.НВК_НастройкиСетевогоДвижка.Resource.ПутьКПриватномуКлючу" id="6d596986-ccc5-480d-91f2-8593405ed722"/>
+			<Metadata name="InformationRegister.НВК_НастройкиСетевогоДвижка.Resource.ТаймаутЗапросаСек" id="8717530b-584f-4d36-aef4-bb052324d4ba"/>
+			<Metadata name="InformationRegister.НВК_НастройкиСетевогоДвижка.Resource.ПутьКСертификатуCA" id="9db39f8e-64a6-40bb-9ddb-af9d676ee1dd"/>
+			<Metadata name="InformationRegister.НВК_НастройкиСетевогоДвижка.Resource.МаксСтрокОчереди" id="c5321b10-8949-4e3f-aaf0-c83d7be47847"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="550e42ad-c4f5-4711-9d3a-a3522ce34075" configVersion="30b455c081f16f46a1b0ca175916de6df48153c9"/>
+		<Metadata name="Role.НВК_ОсновнаяРоль" id="48ac8da1-e9d8-4e95-8d3a-edd494822bc4" configVersion="eae86ef88f13e2123913b9a72ad3324e01ec6dae"/>
+		<Metadata name="Subsystem.НВК_ВК" id="5c605b31-76ba-4aed-acd0-2026386ad912" configVersion="ce5db9f92d1fcd2d265e8a797943fc18c2278d49"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
